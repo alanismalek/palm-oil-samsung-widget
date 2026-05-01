@@ -1,6 +1,8 @@
 {
     "commodity": "Palm Oil",
-    "price": 1134.26,
-    "unit": "MYR/ton",
+    "price_usd_per_ton": 1134.26,
+    "price_myr_per_ton": 4503.01,
+    "myr_per_usd": 3.97,
+    "unit": "per ton",
     "source": "https://markets.businessinsider.com/commodities/palm-oil-price"
 }
